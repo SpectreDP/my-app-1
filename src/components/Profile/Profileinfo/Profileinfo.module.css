@@ -1,0 +1,26 @@
+.first_image {
+  width: 1000px;
+  max-height: 200px;
+}
+
+.second_image {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 150px;
+  height: 150px;
+  border-radius: 2px;
+}
+
+.about_me {
+  font-weight: bold;
+  color: white;
+}
+
+.decription {
+  color: black;
+}
+
+.status {
+  font-size: 20px;
+  color: blueviolet;
+}

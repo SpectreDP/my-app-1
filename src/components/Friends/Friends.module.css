@@ -1,0 +1,19 @@
+.item {
+    color: white;
+}
+
+.circle {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    background-color: green;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.friendItem {
+    display: inline-block;
+    margin: 10px;
+    color: green;
+    font-size: 15px;
+}

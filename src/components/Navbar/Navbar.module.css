@@ -1,0 +1,34 @@
+.nav {
+  grid-area: n;
+  background-color: burlywood;
+  padding: 20px;
+}
+
+.item a{
+  color: white;
+  text-decoration: none;
+}
+
+.item a.active {
+  color: gold;
+}
+
+.friendsItem {
+  margin-top: 200px;
+  color: rgb(85, 66, 66);
+  text-align: center;
+  font-size: 25px;
+}
+
+.friendsItem a.active {
+  color: black;
+  text-decoration: underline;
+}
+
+/* .item:hover { 
+  outline: dotted red; 
+}
+
+.item.link {
+  color: gold;
+} */

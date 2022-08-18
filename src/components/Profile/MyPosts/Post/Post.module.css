@@ -1,0 +1,14 @@
+.item {
+  color: rgb(1, 17, 7);
+}
+
+.item img {
+  width: 50px;
+  border-radius: 20px;
+}
+
+.item:hover {
+  color: aliceblue;
+  background-color: green;
+  outline: solid silver;
+}

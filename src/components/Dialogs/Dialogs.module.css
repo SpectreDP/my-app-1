@@ -1,0 +1,12 @@
+.title {
+    display: grid;
+    grid-template-columns: 3fr 10fr;
+    color: rgb(36, 59, 16);
+    padding: 20px;
+}
+.dialogs {
+    color: rgb(92, 11, 11);
+}
+.messageItem {
+    color: beige;
+}
