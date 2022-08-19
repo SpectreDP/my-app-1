@@ -3,11 +3,11 @@
   max-height: 200px;
 }
 
-.second_image {
+.mainPhoto {
   margin-top: 10px;
   margin-left: 10px;
-  width: 150px;
-  height: 150px;
+  max-width: 200px;
+  max-height: 200px;
   border-radius: 2px;
 }
 
